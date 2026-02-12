@@ -7,8 +7,9 @@
 [![Badge](https://img.shields.io/badge/Portfolio-%23F6BF87?style=for-the-badge&logo=htmx&logoColor=%23303030)](http://uol.com)
 
 ### 🧠 Sobre
-Desenvolvo aplicações web completas em **JavaScript**, com foco em **utilidade**, **design** e **segurança**.  
-Trabalho com **arquitetura E2E**, **CI/CD**, uso de **CDNs** e análise contínua de desempenho, sempre escolhendo a **stack mais adequada** para cada projeto.
+Desenvolvo aplicações web modernas com **Next.js** e **Fastify**, equilibrando **segurança**, **utilidade** e uma experiência de usuário **(UX)** de alto nível.
+
+Especialista em criar **interfaces fluidas** e interativas usando bibliotecas como **GSAP**, **Framer Motion**, **Lenis**, **Canvas-confetti** e outras. Meu foco é transformar ideias em produtos completos, **cuidando** de todo o **ciclo de vida do projeto** — da arquitetura do backend ao deploy automatizado com CI/CD e otimização via CDNs e análise de performance.
 
 
 ### ⚙️ Tech Stack
