@@ -20,22 +20,22 @@ Especialista em criar **interfaces fluidas** e interativas usando bibliotecas co
 
     <table width="100%">
 <tr>
-    <th><h3>Front End</h3></th>
-    <th><h3>Back End</h3></th>
-    <th><h3>Ferramentas</h3></th>
-    <th><h3>Banco de Dados</h3></th>
+    <th align="center"><h3>Front End</h3></th>
+    <th align="center"><h3>Back End</h3></th>
+    <th align="center"><h3>Ferramentas</h3></th>
+    <th align="center"><h3>Banco de Dados</h3></th>
 </tr>
 <tr>
-    <td valign="top">
+    <td valign="top" align="center">
         <img src="./imgs/front/front_end.png" width="85%"/>
     </td>
-    <td valign="top">
+    <td valign="top" align="center">
         <img src="./imgs/back/back_end.png" width="85%"/>
     </td>
-    <td valign="top">
+    <td valign="top" align="center">
         <img src="./imgs/tools/tools.png" width="85%"/>
     </td>
-    <td valign="top">
+    <td valign="top" align="center">
         <img src="./imgs/db/db.png" width="85%"/>
     </td>
 </tr>
