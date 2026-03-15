@@ -41,3 +41,77 @@ Especialista em criar **interfaces fluidas** e interativas usando bibliotecas co
 </tr>
 </table>
 
+### 🚀 Projetos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 Sistema Imobiliário</h3>
+      <p>Plataforma full stack para gestão de imóveis com CRUD completo, dashboard administrativo e listagem pública para clientes. Projeto real, desenvolvido para um cliente.</p>
+      <p><strong>Stack:</strong> Next.js • Fastify • PostgreSQL</p>
+      <a href="https://elsdomus.com/">🌐 Deploy</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔒 Landing Page — Segurança</h3>
+      <p>Trabalho de rebranding com criação de landing page institucional para empresa de segurança, apresentando serviços com identidade visual nova.</p>
+      <p><strong>Stack:</strong> Next.js</p>
+      <a href="https://jfseguranca.com/">🌐 Deploy</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎉 Site de Ano Novo</h3>
+      <p>Site de viralização stateless e sem banco. O usuário preenche um formulário, os dados são compactados com <code>lz-string</code> e embutidos como query parameter — gerando um link único e personalizado para compartilhar.</p>
+      <p><strong>Stack:</strong> React</p>
+      <a href="https://github.com/FerreiroINTZ/new_year_site">📂 Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💅 Click Presença</h3>
+      <p>Plataforma SaaS para salões de beleza com dashboard, agendamento e landing pages dinâmicas por slug — cada salão escolhe um dos 5 templates, renderizado com seus dados via SSR. Autenticação via magic links.</p>
+      <p><strong>Stack:</strong> Next.js • PostgreSQL • SSR dinâmico</p>
+      <a href="#">📂 Repositório (em breve)</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 Code Docs</h3>
+      <p>Ferramenta pessoal de anotações técnicas com seções dinâmicas de texto e código. Adicione seções progressivamente com o botão <code>+</code>, alternando entre tipos conforme a necessidade.</p>
+      <p><strong>Stack:</strong> Next.js • Fastify • PostgreSQL</p>
+      <a href="https://github.com/FerreiroINTZ/code-documentations/">📂 Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧊 Cubo 3D — Matemática Discreta</h3>
+      <p>Cubo interativo renderizado com React Three Fiber, com movimentação baseada em vetores e trigonometria. Une conceito matemático com implementação visual em 3D.</p>
+      <p><strong>Stack:</strong> React • R3F / Three.js</p>
+      <a href="https://github.com/FerreiroINTZ/geometria-analitica-trabalho-">📂 Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍪 Cookie Baker</h3>
+      <p>Servidor que emite um cookie pro cliente — simples por dentro, mas com UI construída do zero sem nenhuma lib de animação. Prova de que UX de alto nível não depende de biblioteca.</p>
+      <p><strong>Stack:</strong> React • Fastify • CSS puro</p>
+      <a href="https://github.com/FerreiroINTZ/Cookies-baker">📂 Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🖱️ Custom Cursor Collection</h3>
+      <p>Três versões de cursor personalizado reunidas num super repo, cada uma com stack diferente e resultado equivalente. Comparação direta de abordagens para o mesmo problema.</p>
+      <p><strong>Stack:</strong> React • Vanilla JS • GSAP</p>
+      <a href="#">📂 Repositório (em breve)</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 WhatsApp 2</h3>
+      <p>Clone do WhatsApp usando WebSockets nativos do Fastify para comunicação em tempo real. Projeto pausado, mas demonstra domínio de mensageria bidirecional.</p>
+      <p><strong>Stack:</strong> Fastify • WebSockets</p>
+      <a href="https://github.com/FerreiroINTZ/Whatsapp-2">📂 Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Context Word Guess</h3>
+      <p>Jogo multiplayer por salas onde os jogadores tentam adivinhar as palavras um do outro em turnos. Estado distribuído em tempo real via WebSocket.</p>
+      <p><strong>Stack:</strong> WebSockets • Sistema de salas • Lógica de turnos</p>
+      <a href="https://github.com/FerreiroINTZ/Context-Words-Guess">📂 Repositório</a>
+    </td>
+  </tr>
+</table>
