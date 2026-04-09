@@ -4,7 +4,7 @@
 [![Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-felipe-ferreira-de-oliveira-25a335239)
 [![Badge](https://img.shields.io/badge/EMAIL-white?style=for-the-badge&logo=gmail)](mailto:gabrielferreiro963@gmail.com)
 [![Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/FerreiroINTZ)
-[![Badge](https://img.shields.io/badge/Portfolio-%23F6BF87?style=for-the-badge&logo=htmx&logoColor=%23303030)](http://uol.com)
+[![Badge](https://img.shields.io/badge/Portfolio-%23F6BF87?style=for-the-badge&logo=htmx&logoColor=%23303030)]([http://uol.com](https://github.com/FerreiroINTZ/portfolio-v20/tree/main))
 
 ### 🧠 Sobre
 Desenvolvo aplicações web modernas com **Next.js** e **Fastify**, equilibrando **segurança**, **utilidade** e uma experiência de usuário **(UX)** de alto nível.
@@ -114,4 +114,12 @@ Especialista em criar **interfaces fluidas** e interativas usando bibliotecas co
       <a href="https://github.com/FerreiroINTZ/Context-Words-Guess">📂 Repositório</a>
     </td>
   </tr>
+    <tr>
+        <td>
+            <h3>Portfolio v20</h3>
+            <p>Apenas o Desing da versão atual do meu portfolio profissional.</p>
+            <p><strong>Stack:</strong> React</p>
+            <a href="https://github.com/FerreiroINTZ/portfolio-v20/tree/main">📂 Repositório</a>
+        </td>
+    </tr>
 </table>
